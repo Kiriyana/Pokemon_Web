@@ -16,9 +16,6 @@ body, html {
   position: relative;
 }
 
-/* Place text in the middle of the image */
-
-
 h1{
     text-align: center;
 
@@ -27,3 +24,4 @@ h1{
 p1{
     text-align: center;
 }
+
