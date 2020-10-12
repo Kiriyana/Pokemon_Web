@@ -1,5 +1,27 @@
+body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: url("pokemon-png-18183.png");
+
+  /* Set a specific height */
+  height: 35%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+/* Place text in the middle of the image */
+
+
 h1{
     text-align: center;
+
 }
 
 p1{
