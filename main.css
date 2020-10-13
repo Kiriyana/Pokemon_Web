@@ -1,3 +1,7 @@
+body{
+    background-color:rgb(44, 43, 43)
+}
+
 body, html {
     height: 100%;
 }
